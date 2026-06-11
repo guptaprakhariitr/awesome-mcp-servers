@@ -235,6 +235,9 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
 - <img src="https://framerusercontent.com/images/0Bw7GwbNXUBxOAp9pyM0VPOlphg.png" height="14" /> [Skyvern](https://github.com/Skyvern-AI/skyvern/tree/main/integrations/mcp) - MCP to let Claude or your own LLM control your browser
 - <img src="https://searx.space/favicon.png" height="14" /> [Ihor-Sokoliuk/MCP-SearXNG](https://github.com/ihor-sokoliuk/mcp-searxng) - A Model Context Protocol Server for [SearXNG](https://docs.searxng.org)
 - <img src="https://pragmar.com/media/static/images/mcp-server-webcrawl/favicon.png" height="14" /> [mcp-server-webcrawl](https://github.com/pragmar/mcp-server-webcrawl) - Advanced search and retrieval for web crawler data. Supports WARC, wget, Katana, SiteOne, and InterroBot crawlers.
+- [HN Trending](https://github.com/guptaprakhariitr/hn-trending-mcp) - Hacker News front page + Algolia full-text search + Show HN launch tracker.
+- [Verification](https://github.com/guptaprakhariitr/verification-mcp) - Real-time fact-check + citation verification + source-freshness layer for AI agents.
+- [Multi-Carrier Tracking](https://github.com/guptaprakhariitr/multi-carrier-tracking-mcp) - Auto-detect 8 shipping carriers from a tracking number: USPS, UPS, FedEx, DHL, India Post, Delhivery, BlueDart, Aramex.
 
 <br />
 
@@ -346,6 +349,12 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
 - <img src="https://cdn.simpleicons.org/stripe" height="14"/> [Stripe](https://github.com/stripe/agent-toolkit/tree/main)<sup><sup>⭐</sup></sup> - Allows you to integrate with Stripe APIs
 - <img src="https://pub.pbkrs.com/files/202211/TNosrY77nCxm6rtU/logo-without-title.svg" height="14"/> [LongPort OpenAPI](https://github.com/longportapp/openapi/tree/main/mcp)<sup><sup>⭐</sup></sup> - Provides real-time stock market data, provides AI access analysis and trading capabilities through MCP.
 - <img src="https://zbd.gg/favicon.ico" height="14"/> [ZBD](https://github.com/zebedeeio/zbd-payments-typescript-sdk/tree/main/packages/mcp-server)<sup><sup>⭐</sup></sup> - Interact with ZBD's payment processing APIs for instant global payments with Bitcoin and Lightning Network
+- [SEC EDGAR](https://github.com/guptaprakhariitr/sec-edgar-mcp) - Real-time SEC EDGAR filings + XBRL financial facts + Form 4 insider trades for AI agents. Hosted, free tier.
+- [World Bank + FRED](https://github.com/guptaprakhariitr/world-bank-economic-mcp) - Macro-economic indicators unified across World Bank, FRED, IMF, OECD.
+- [Indian Regulatory](https://github.com/guptaprakhariitr/indian-regulatory-mcp) - SEBI orders, RBI notifications, MCA company master, GSTIN/PAN validation, NSE/BSE announcements, AMFI NAV.
+- [Crypto Prices](https://github.com/guptaprakhariitr/crypto-prices-mcp) - Live + historical crypto prices via CoinGecko's free API. Spot prices, market cap, OHLCV.
+- [GST Validator](https://github.com/guptaprakhariitr/gst-validator-mcp) - Validate Indian GSTINs locally (Verhoeff checksum), extract embedded PAN, identify state.
+- [HSN Classifier](https://github.com/guptaprakhariitr/hsn-classifier-mcp) - Look up Indian HSN/GST codes by description. 4,676 entries embedded.
 
 <br />
 
@@ -358,6 +367,12 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
 - <img src="https://probe.dev/favicon.ico" height="14"/> [Probe.dev](https://mcp.probe.dev) - Professional media analysis and validation MCP server with FFprobe, MediaInfo, and comprehensive reporting capabilities
 - <img src="https://cdn.simpleicons.org/apple/7ED957" height="14"/> [OpenNutrition](https://github.com/deadletterq/mcp-opennutrition) - Search 300,000+ foods, nutrition facts, and barcodes from the OpenNutrition database
 - <img src="https://congressmcp.lawgiver.ai/favicon.svg" height="14"/> [Congress](https://github.com/amurshak/congressMCP) - Query and reeason about legislative data from Congress.gov
+- [USPTO Patents](https://github.com/guptaprakhariitr/uspto-patents-mcp) - US patent search via PatentsView. Assignee portfolios, citation graph, full-text.
+- [GDELT Events](https://github.com/guptaprakhariitr/gdelt-events-mcp) - Real-time geopolitical event detection, tone timeseries, actor trends via GDELT 2.0.
+- [FDA Approvals & Recalls](https://github.com/guptaprakhariitr/fda-approvals-mcp) - openFDA wrapper — drug approvals, 510(k) device clearances, recalls, adverse events.
+- [Drug Interaction Checker](https://github.com/guptaprakhariitr/drug-interaction-mcp) - Drug-drug interaction checker for clinical LLM workflows (RxNorm + DailyMed).
+- [Wikipedia Recent Changes](https://github.com/guptaprakhariitr/wikipedia-recent-changes-mcp) - Live Wikipedia edit stream + page summaries + trending + Wikidata search.
+- [ArXiv](https://github.com/guptaprakhariitr/arxiv-mcp) - ArXiv preprint search, daily category digest, premium author-collaborator graph.
 
 <br />
 
@@ -375,6 +390,7 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
 - <img src="https://www.chronulus.com/favicon/chronulus-logo-blue-on-alpha-square-128x128.ico" alt="Chronulus AI Logo" height="14" width="14"> [Chronulus AI](https://github.com/ChronulusAI/chronulus-mcp) -  Predict anything with Chronulus AI multimodal forecasting and prediction agents ([Watch Demos on Youtube](https://youtube.com/playlist?list=PLPLu09ZbT8KKS04V6SSm2Acjv43FKq329&si=n2YER2in4gOqwssY)).
 - <img src="https://www.creatify.ai/favicon.ico" height="14"/> [Creatify](https://github.com/TSavo/creatify-mcp) - MCP Server that exposes Creatify AI API capabilities for AI video generation, including avatar videos, URL-to-video conversion, text-to-speech, and AI-powered editing tools.
 - <img src="https://www.svgrepo.com/show/495208/data.svg" height="14"/> [ZenML](https://github.com/zenml-io/mcp-zenml)<sup><sup>⭐</sup></sup> - Chat with your MLOps and LLMOps pipelines using the [ZenML](https://www.zenml.io) MCP server
+- [Unit / Currency / Timezone Converter](https://github.com/guptaprakhariitr/unit-converter-mcp) - 60+ units, live FX rates, timezone math, date arithmetic.
 
 <br />
 
@@ -444,6 +460,7 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
 > Provides real-time translation of text, documents, and content between multiple languages.
 
 - <img src="https://laratranslate.com/favicon.ico" height="14"/> [Lara](https://github.com/translated/lara-mcp)<sup><sup>⭐</sup></sup> - MCP Server for Lara Translate API, enabling powerful translation capabilities with support for language detection and context-aware translations
+- [Indic Normalize](https://github.com/guptaprakhariitr/indic-normalize-mcp) - Indic-language transliteration + Indian name/address/PIN/PAN/GSTIN normalization.
 
 <br />
 
